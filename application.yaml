@@ -15,7 +15,6 @@ eureka:
     password: root
     url: jdbc:mysql://localhost:3306/hotelservicedb
   jpa:
-    show-sql: true
     generate-ddl: true
     hibernate:
       ddl-auto: update
